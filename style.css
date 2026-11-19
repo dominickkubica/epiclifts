@@ -44,3 +44,5 @@ footer { margin-top: 48px; color: var(--muted); font-size: 14px; }
 .meta { color: var(--muted); font-size: 14px; margin: 14px 0 0; }
 .contact p { color: var(--muted); margin: 2px 0 0; font-size: 15px; }
 .btn { white-space: nowrap; }
+.dot.warn { background: rgba(240, 166, 60, 0.16); color: #f0a63c; }
+.sec p strong { color: var(--text); }
