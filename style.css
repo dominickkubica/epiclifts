@@ -41,3 +41,6 @@ footer { margin-top: 48px; color: var(--muted); font-size: 14px; }
 .btn { background: var(--accent); color: #fff; font-weight: 700; padding: 10px 18px; border-radius: 999px; }
 .btn:hover { text-decoration: none; opacity: 0.9; }
 @media (max-width: 480px) { .hero h1 { font-size: 30px; } .lead { font-size: 17px; } .tile { padding: 14px; } }
+.meta { color: var(--muted); font-size: 14px; margin: 14px 0 0; }
+.contact p { color: var(--muted); margin: 2px 0 0; font-size: 15px; }
+.btn { white-space: nowrap; }
